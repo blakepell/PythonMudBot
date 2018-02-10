@@ -12,7 +12,6 @@ from threading import Thread
 #       Script:  Mud Bot                                                     #
 #   Written by:  Blake Pell (blakepell@hotmail.com)                          #
 #        Sites:  http://www.blakepell.com                                    #
-#                http://www.github.com/blakepell/CrimsonSkies                #
 #  1st Release:  10/01/2015                                                  #
 # Last Updated:  11/05/2015                                                  #
 #                                                                            #
